@@ -1,2 +1,2 @@
 # dev6am
-devops6am batch
+this is demo repo created by gopi tech
