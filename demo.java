@@ -1,8 +1,14 @@
 class demo
 {
-	public stastic void main ()
-		........
+	void DEPOSIT()
+	{
+		-----------
+	}
+	void WITHDRAW()
+	{
+		---------
+	}
+	S.O.P("HELLO WORLD")
 
-		s  .o  .p("hello");
 }
 
