@@ -3,6 +3,11 @@ class demo
 	void ADD()
 	{
 		------
+	
+	}
+	void SUB()
+	{
+		--------
 	}
 	void DEPOSIT()
 	{
